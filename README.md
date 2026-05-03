@@ -1,6 +1,6 @@
 # OANTA – Online Adaptív Számelméleti Értékelő Rendszer
 
-<img src="logo.png" alt="OANTA Logo" width="300">
+<div align="center"><img src="logo.png" alt="OANTA Logo" width="300"></div>
 
 Korszerű, **IRT-alapú adaptív tesztelési platform** középiskolásoknak. 
 A rendszer a tanuló egyéni tudásszintjéhez igazodva méri a számelméleti gondolkodást, 
